@@ -1,0 +1,7 @@
+E:\C#\Project 003\Banking-Console-Application\bin\Debug\Banking-Console-Application.exe.config
+E:\C#\Project 003\Banking-Console-Application\bin\Debug\Banking-Console-Application.exe
+E:\C#\Project 003\Banking-Console-Application\bin\Debug\Banking-Console-Application.pdb
+E:\C#\Project 003\Banking-Console-Application\obj\Debug\Banking-Console-Application.csproj.AssemblyReference.cache
+E:\C#\Project 003\Banking-Console-Application\obj\Debug\Banking-Console-Application.csproj.CoreCompileInputs.cache
+E:\C#\Project 003\Banking-Console-Application\obj\Debug\Banking-Console-Application.exe
+E:\C#\Project 003\Banking-Console-Application\obj\Debug\Banking-Console-Application.pdb
